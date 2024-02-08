@@ -1,0 +1,56 @@
+h3{
+    padding-left: 10px;
+}
+.first{
+    display: flex;
+}
+.community{
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+    .community-note{
+        color: var(--Gray-700, #344054);
+        font-size: 14px;
+        font-style: normal;
+        padding: 0px 24px;
+        font-weight: 400;
+        line-height: 25px;
+    }
+}
+.katherine{
+    display: flex;
+    gap: 16px;
+    padding: 12px 24px;
+    background-color: #F2F4F7;
+    .star{
+        display: flex;
+    }
+    .moss{
+        line-height: 1px;
+        .microsoft{
+            display: flex;
+            line-height: 1px;
+        }
+    }
+    .lead{
+        padding-top: 15px;
+    }
+}
+.john-doe{
+    display:flex;
+    width: 274px;
+    padding-left: 30px;
+    align-items: flex-start;
+    gap: 16px;
+}
+.john{
+    padding-top: 25px;
+}
+.katherine-moss{
+    border-radius: 10px;
+    border: 1px solid var(--Gray-blue-100, #EAECF5);
+    background: #FFF;
+}

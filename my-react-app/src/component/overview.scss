@@ -1,0 +1,44 @@
+$color: var(--Gray-600, #475467);
+$background-color: var(--Base-White, #FFF);
+$background : var(--Gray-blue-50, #F8F9FC);
+.overview{
+    display: flex;
+    width: 1200px;
+    padding: 64px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+    .overview-note{
+        color: $color;
+        width: 600px;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+    }
+}
+button{
+    border: 1px solid var(--Gray-200, #EAECF0);
+    background: $background-color;
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+    display: flex;
+    padding: 10px 18px;
+    gap: 8px;
+}
+.live{
+    color: $color;
+    display: flex;
+    padding: 10px 20px;
+    align-items: flex-start;
+    color: $color;
+    gap: 12px;
+    font-weight: 400;
+    font-size: 15px;
+    margin: 8px;
+    background-color: $background;
+    line-height: 3px;
+    .photo{
+        padding-top: 20px;
+    }
+}
