@@ -1,3 +1,4 @@
+import Certification from "./component/certification";
 import Cohort from "./component/cohort";
 import Community from "./component/community";
 import Feedback from "./component/feedback";
@@ -12,6 +13,7 @@ function App() {
       <Community />
       <Payment />
       <Cohort/>
+      <Certification />
    </>
   );
 }
