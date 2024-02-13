@@ -5,6 +5,7 @@ import Community from "./component/community";
 import Feedback from "./component/feedback";
 import Overview from "./component/overview";
 import Payment from "./component/payment";
+import ProductDream from "./component/productDream.";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Cohort/>
       <Certification />
       <ChooseEdusproute />
+      <ProductDream />
    </>
   );
 }

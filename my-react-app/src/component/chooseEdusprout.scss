@@ -1,8 +1,5 @@
 $color: #475467;
 $background-color: #F8F9FC;
-.why-choose{
-    display: flex;
-}
 .choose-list{
     border: 1px solid $color;
     border-radius: 17px;
@@ -21,6 +18,9 @@ $background-color: #F8F9FC;
     align-self: stretch;
     color: $color;
     background-color: $background-color;
+    .why-choose{
+        display: flex;
+    }
     p{
         color: black;
     }
