@@ -1,0 +1,27 @@
+$color: #475467;
+$background-color: #F8F9FC;
+.why-choose{
+    display: flex;
+}
+.choose-list{
+    border: 1px solid $color;
+    border-radius: 17px;
+    width: 25px;
+    text-align: center;
+    height: 25px;
+    margin-top: 20px;
+    
+}
+.choose-edusproute{
+    display: flex;
+    padding: 0px 64px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 32px;
+    align-self: stretch;
+    color: $color;
+    background-color: $background-color;
+    p{
+        color: black;
+    }
+}

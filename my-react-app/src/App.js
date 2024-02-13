@@ -1,4 +1,5 @@
 import Certification from "./component/certification";
+import ChooseEdusproute from "./component/chooseEdusproute";
 import Cohort from "./component/cohort";
 import Community from "./component/community";
 import Feedback from "./component/feedback";
@@ -14,6 +15,7 @@ function App() {
       <Payment />
       <Cohort/>
       <Certification />
+      <ChooseEdusproute />
    </>
   );
 }
