@@ -10,6 +10,7 @@ import Future from "./component/futureOfLearning";
 import Overview from "./component/overview";
 import Payment from "./component/payment";
 import ProductDream from "./component/productDream.";
+import Work from "./component/work";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       <Future />
       <Empower />
       <DiverseTeam />
+      <Work />
    </>
   );
 }

@@ -7,7 +7,7 @@ function Future(){
         <div>
             <div>
                 <h2 className='building'>Building the future of learning</h2>
-                <p>
+                <p className='buildingNote'>
                     We’re a full-service design and development agency who specialise <br/>
                     in simple, useful and beautiful solutions.
                 </p>
