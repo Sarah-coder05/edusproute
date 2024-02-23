@@ -1,7 +1,7 @@
 import './futureOfLearning.scss'
-import view from "../component/res/Subtract.png"
-import view1 from "../component/res/arrow-narrow-down-right.svg"
-import view2 from "../component/res/Avatar.jpg"
+import view from "../res/Subtract.png"
+import view1 from "../res/arrow-narrow-down-right.svg"
+import view2 from "../res/Avatar.jpg"
 function Future(){
     return(
         <div>

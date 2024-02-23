@@ -1,7 +1,7 @@
 import './feedback.scss'
-import view from "../component/res/user-square.svg";
-import view1 from "../component/res/hourglass-01.svg";
-import view2 from "../component/res/building-07.svg";
+import view from "../res/user-square.svg";
+import view1 from "../res/hourglass-01.svg";
+import view2 from "../res/building-07.svg";
 function Feedback() {
     return(
         <div>

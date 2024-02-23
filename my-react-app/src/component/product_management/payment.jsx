@@ -1,5 +1,5 @@
 import "./payment.scss";
-import view1 from "../component/res/Image.png";
+import view1 from "../res/Image.png";
 function Payment() {
     return(
         <div class="payment">

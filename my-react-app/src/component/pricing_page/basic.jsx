@@ -1,7 +1,7 @@
 import './basic.scss'
-import view from "../component/res/check-circle.svg"
-import view1 from "../component/res/check-circle-G.svg"
-import view2 from "../component/res/arrow-narrow-right (1).svg"
+import view from "../res/check-circle.svg"
+import view1 from "../res/check-circle-G.svg"
+import view2 from "../res/arrow-narrow-right (1).svg"
 function Basic() {
     return(
         <div className='courses'>

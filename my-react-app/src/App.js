@@ -1,16 +1,16 @@
-import Basic from "./component/basic";
-import Certification from "./component/certification";
-import ChooseEdusproute from "./component/chooseEdusproute";
+import Basic from "./component/pricing_page/basic";
+import Certification from "./component/desktop/certification";
+import ChooseEdusproute from "./component/desktop/chooseEdusproute";
 import Cohort from "./component/cohort";
-import Community from "./component/community";
-import DiverseTeam from "./component/diverseTeam";
-import Empower from "./component/empower";
-import Feedback from "./component/feedback";
-import Future from "./component/futureOfLearning";
-import Overview from "./component/overview";
-import Payment from "./component/payment";
-import ProductDream from "./component/productDream.";
-import Work from "./component/work";
+import Community from "./component/desktop/community";
+import DiverseTeam from "./component/about_us/diverseTeam";
+import Empower from "./component/about_us/empower";
+import Feedback from "./component/product_management/feedback";
+import Future from "./component/about_us/futureOfLearning";
+import Overview from "./component/product_management/overview";
+import Payment from "./component/product_management/payment";
+import ProductDream from "./component/product_management/productDream."
+import Work from "./component/career/work";
 
 function App() {
   return (

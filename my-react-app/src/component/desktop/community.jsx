@@ -1,8 +1,8 @@
 import './community.scss'
-import view from "../component/res/Avatar.png"
-import view3 from "../component/res/Avatar.jpg"
-import view1 from "../component/res/backpack.svg"
-import view2 from "../component/res/Star.svg"
+import view from "../res/Avatar.png"
+import view3 from "../res/Avatar.jpg"
+import view1 from "../res/backpack.svg"
+import view2 from "../res/Star.svg"
 function Community() {
     return(
         <div>

@@ -1,5 +1,5 @@
 import './productDream.scss'
-import view from "../component/res/Image.png"
+import view from "../res/Image.png"
 function ProductDream() {
     return(
         <div className='product-management'>

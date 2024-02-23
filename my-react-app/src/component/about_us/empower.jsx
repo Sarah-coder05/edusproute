@@ -1,7 +1,7 @@
 import './empower.scss'
-import view from "../component/res/certificate-02.svg"
-import view1 from "../component/res/Featured icon.svg"
-import view2 from "../component/res/atom-02.svg"
+import view from "../res/certificate-02.svg"
+import view1 from "../res/Featured icon.svg"
+import view2 from "../res/atom-02.svg"
 function Empower(){
     return(
         <div>

@@ -1,6 +1,6 @@
 import './work.scss'
-import view from "../component/res/Subtract (1).png"
-import view1 from "../component/res/Image (1).png"
+import view from "../res/Subtract (1).png"
+import view1 from "../res/Image (1).png"
 function Work(){
     return(
         <div>

@@ -1,8 +1,8 @@
 import './certification.scss'
-import view from "../component/res/Group.svg"
-import view1 from "../component/res/Group (1).svg"
-import view2 from "../component/res/Group (2).svg"
-import view3 from "../component/res/Group (3).svg"
+import view from "../res/Group.svg"
+import view1 from "../res/Group (1).svg"
+import view2 from "../res/Group (2).svg"
+import view3 from "../res/Group (3).svg"
 function Certification() {
     return(
         <div className='certification'>

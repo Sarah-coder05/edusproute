@@ -1,7 +1,7 @@
 import './overview.scss'
-import view from "../component/res/alarm-clock-check.svg";
-import view1 from "../component/res/building-07.svg";
-import view2 from "../component/res/users-03.svg";
+import view from "../res/alarm-clock-check.svg";
+import view1 from "../res/building-07.svg";
+import view2 from "../res/users-03.svg";
 function Overview() {
     return(
         <div className='overview'>

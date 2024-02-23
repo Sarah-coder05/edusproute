@@ -1,7 +1,7 @@
 import './diverseTeam.scss'
-import view from "../component/res/Images.png"
-import view1 from "../component/res/Images (1).png"
-import view2 from "../component/res/Images (2).png"
+import view from "../res/Images.png"
+import view1 from "../res/Images (1).png"
+import view2 from "../res/Images (2).png"
 function DiverseTeam(){
     return(
         <div className='team'>
